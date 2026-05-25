@@ -45,5 +45,5 @@ vectorization. The best performing model achieved 99.5% accuracy.
 
 ## Dataset
 
-Two CSV files containing labeled news articles — `True.csv` and `Fake.csv`.
-
+Uses a publicly available fake news dataset.  
+Download `True.csv` and `Fake.csv` from [Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) and place them in the project root before running.
