@@ -1,0 +1,15 @@
+# Dataset (too large for GitHub)
+data/
+
+# Saved models
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
