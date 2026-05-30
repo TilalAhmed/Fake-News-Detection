@@ -17,7 +17,7 @@ A machine learning project that classifies news articles as **Fake** or **True**
 | Naive Bayes | ~93.4% |
 
 ---
-
+> **Note:** Model trained on ISOT dataset (2016-2017 political news). Performance may vary on modern news articles. Random Forest excluded from live app due to file size.
 ## Dataset
 
 [ISOT Fake News Dataset](https://www.kaggle.com/datasets/emineyetm/fake-and-real-news-dataset) — ~45,000 news articles (Fake.csv + True.csv).
