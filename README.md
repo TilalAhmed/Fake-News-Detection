@@ -97,4 +97,4 @@ Saved model files will appear in the `models/` folder as `.pkl` files.
 
 **Tilal Ahmed**  
 BS Computer Science — Iqra University, Karachi  
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) · tilalahmed956@gmail.com
+[LinkedIn](https://www.linkedin.com/in/tilalahmed) · tilalahmed956@gmail.com
