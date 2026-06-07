@@ -4,3 +4,8 @@ numpy
 scikit-learn==1.7.1
 seaborn
 matplotlib
+textblob
+vaderSentiment
+nltk
+plotly
+joblib
