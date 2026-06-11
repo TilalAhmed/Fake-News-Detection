@@ -1,4 +1,4 @@
-[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fake-news-detection-t2kfj9uxbdhtzabcpjx4az.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/🤗%20Live%20Demo-Fake%20News%20Detection-blue)](https://tilalahmed-fake-news-detection.hf.space)
 # Fake News Detection System
 
 A machine learning project that classifies news articles as **Fake** or **True** using six different classification algorithms trained on TF-IDF text features.
